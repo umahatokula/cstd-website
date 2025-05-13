@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add global background color to the body */
+/* body {
+    @apply bg-gray-100;
+  } */
+
+  
+  

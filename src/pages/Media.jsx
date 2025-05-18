@@ -75,7 +75,12 @@ const Media = () => {
       • Clean room for satellite assembly
       • Advanced testing equipment
       • Research laboratories
-      • Conference facilities`
+      • Conference facilities`,
+      media: {
+        type: 'video',
+        url: require('../assets/images/tsm.mp4'),
+        thumbnail: 'https://cdn.pixabay.com/photo/2023/05/23/11/51/machine-8012596_1280.jpg'
+      }
     },
     {
       title: "Student Space Program Launched",
